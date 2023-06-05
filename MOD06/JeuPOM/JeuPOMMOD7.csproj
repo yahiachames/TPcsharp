@@ -1,0 +1,144 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{B5172BAE-91EC-4AB6-A116-A41CEE3C4D6D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>JeuPOMMOD7</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe" />
+    <Content Include="ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb" />
+    <Content Include="ConsoleApp1\obj\Debug\net6.0\apphost.exe" />
+    <Content Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.FileListAbsolute.txt" />
+    <Content Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb" />
+    <Content Include="ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll" />
+    <Content Include="ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll" />
+    <Content Include="JeuPOM.vcxproj.filters" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".vs\JeuPOM\DesignTimeBuild\.dtbcache.v2" />
+    <None Include=".vs\JeuPOM\FileContentIndex\46241622-9a86-4f96-8f6c-8a502f9732f1.vsidx" />
+    <None Include=".vs\JeuPOM\FileContentIndex\5a5e9a82-bebf-47f9-9f47-7c82a2c2b65d.vsidx" />
+    <None Include=".vs\JeuPOM\FileContentIndex\d8aa1924-290a-46e7-a778-ee8867b7372a.vsidx" />
+    <None Include=".vs\JeuPOM\FileContentIndex\e190cd8b-f63e-4811-bcfa-42e731fb843c.vsidx" />
+    <None Include=".vs\JeuPOM\FileContentIndex\read.lock" />
+    <None Include=".vs\JeuPOM\v17\.futdcache.v2" />
+    <None Include=".vs\JeuPOM\v17\.suo" />
+    <None Include=".vs\JeuPOM\v17\Browse.VC.db" />
+    <None Include=".vs\ProjectEvaluation\jeupom.metadata.v5.2" />
+    <None Include=".vs\ProjectEvaluation\jeupom.projects.v5.2" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\gh" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\hello" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\ho" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\james" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\kjmlkjjp" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\njnjn" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\sqsdqs" />
+    <None Include="ConsoleApp1\bin\Debug\net6.0\tom" />
+    <None Include="ConsoleApp1\ConsoleApp1.csproj" />
+    <None Include="ConsoleApp1\obj\ConsoleApp1.csproj.nuget.dgspec.json" />
+    <None Include="ConsoleApp1\obj\ConsoleApp1.csproj.nuget.g.props" />
+    <None Include="ConsoleApp1\obj\ConsoleApp1.csproj.nuget.g.targets" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.assets.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.BuildWithSkipAnalyzers" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache" />
+    <None Include="ConsoleApp1\obj\Debug\net6.0\_IsIncrementalBuild" />
+    <None Include="ConsoleApp1\obj\project.assets.json" />
+    <None Include="ConsoleApp1\obj\project.nuget.cache" />
+    <None Include="ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfoInputs.cache" />
+    <None Include="ConsoleApp1\obj\Release\net6.0\ConsoleApp1.assets.cache" />
+    <None Include="ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.AssemblyReference.cache" />
+    <None Include="ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="info\info.csproj" />
+    <None Include="info\obj\Debug\net6.0\info.AssemblyInfoInputs.cache" />
+    <None Include="info\obj\Debug\net6.0\info.assets.cache" />
+    <None Include="info\obj\Debug\net6.0\info.csproj.AssemblyReference.cache" />
+    <None Include="info\obj\Debug\net6.0\info.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="info\obj\info.csproj.nuget.dgspec.json" />
+    <None Include="info\obj\info.csproj.nuget.g.props" />
+    <None Include="info\obj\info.csproj.nuget.g.targets" />
+    <None Include="info\obj\project.assets.json" />
+    <None Include="info\obj\project.nuget.cache" />
+    <None Include="info\obj\Release\net6.0\info.AssemblyInfoInputs.cache" />
+    <None Include="info\obj\Release\net6.0\info.csproj.AssemblyReference.cache" />
+    <None Include="info\obj\Release\net6.0\info.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleApp1\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp1\obj\Release\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfo.cs" />
+    <Compile Include="ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GlobalUsings.g.cs" />
+    <Compile Include="ConsoleApp1\Partie.cs" />
+    <Compile Include="ConsoleApp1\Program.cs" />
+    <Compile Include="info\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="info\obj\Debug\net6.0\info.AssemblyInfo.cs" />
+    <Compile Include="info\obj\Debug\net6.0\info.GlobalUsings.g.cs" />
+    <Compile Include="info\obj\Release\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="info\obj\Release\net6.0\info.AssemblyInfo.cs" />
+    <Compile Include="info\obj\Release\net6.0\info.GlobalUsings.g.cs" />
+    <Compile Include="info\Personne.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\JeuPOMMOD7\v17\" />
+    <Folder Include=".vs\JeuPOM\FileContentIndex\merges\" />
+    <Folder Include="ConsoleApp1\bin\Release\net6.0\" />
+    <Folder Include="ConsoleApp1\obj\Release\net6.0\refint\" />
+    <Folder Include="ConsoleApp1\obj\Release\net6.0\ref\" />
+    <Folder Include="info\bin\Debug\net6.0\" />
+    <Folder Include="info\bin\Release\net6.0\" />
+    <Folder Include="info\obj\Debug\net6.0\refint\" />
+    <Folder Include="info\obj\Debug\net6.0\ref\" />
+    <Folder Include="info\obj\Release\net6.0\refint\" />
+    <Folder Include="info\obj\Release\net6.0\ref\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

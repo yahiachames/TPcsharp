@@ -1,0 +1,15 @@
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\bin\Debug\net6.0\DepCap.exe
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\bin\Debug\net6.0\DepCap.deps.json
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\bin\Debug\net6.0\DepCap.runtimeconfig.json
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\bin\Debug\net6.0\DepCap.dll
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\bin\Debug\net6.0\DepCap.pdb
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.csproj.AssemblyReference.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.AssemblyInfoInputs.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.AssemblyInfo.cs
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.csproj.CoreCompileInputs.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.dll
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\refint\DepCap.dll
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.pdb
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\DepCap.genruntimeconfig.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD04\DepCap\DepCap\obj\Debug\net6.0\ref\DepCap.dll

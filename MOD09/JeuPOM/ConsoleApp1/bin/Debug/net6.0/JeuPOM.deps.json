@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JeuPOM/1.0.0": {
+        "dependencies": {
+          "GestionRH": "1.0.0",
+          "info": "1.0.0"
+        },
+        "runtime": {
+          "JeuPOM.dll": {}
+        }
+      },
+      "GestionRH/1.0.0": {
+        "dependencies": {
+          "info": "1.0.0"
+        },
+        "runtime": {
+          "GestionRH.dll": {}
+        }
+      },
+      "info/1.0.0": {
+        "runtime": {
+          "info.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JeuPOM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionRH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "info/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

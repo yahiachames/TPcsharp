@@ -1,0 +1,12 @@
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\bin\Debug\net6.0\info.deps.json
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\bin\Debug\net6.0\info.dll
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\bin\Debug\net6.0\info.pdb
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.csproj.AssemblyReference.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.AssemblyInfoInputs.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.AssemblyInfo.cs
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.csproj.CoreCompileInputs.cache
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.dll
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\refint\info.dll
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\info.pdb
+C:\Users\spider\Desktop\HEXAGONE\csharp\Ateliers\MOD07\JeuPOM\info\obj\Debug\net6.0\ref\info.dll
